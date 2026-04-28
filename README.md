@@ -13,6 +13,8 @@ It visualizes the markdown files under `~/.openclaw/workspace` as books on shelv
 ## 截图 / Screenshot
 
 书架页可以看到所有 Root Scrolls（SOUL、IDENTITY、USER 等）、memories、skills、profiles，点击书本打开翻页动画，左边是 Git 提交记录，右边是正文。
+![Uploading Snipaste_2026-04-29_02-28-19.png…]()
+
 
 ## 安装 / Install
 
